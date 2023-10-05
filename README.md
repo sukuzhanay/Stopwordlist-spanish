@@ -1,0 +1,2 @@
+# Stopwordlist-spanish
+Stopwordlist spanish
